@@ -1,0 +1,7 @@
+Sir, Today I have worked on outbox messages concept for client and candidate phases.
+Added innerlink block for show-outbox message and auto update unread messages count in 
+menu-tab in the layout. modified delete option. And currently working on admin pannel's post-newmessage-popup.
+
+@};-@};-Good Morning@};-@};-
+
+Sir, We have added search criteria for country_birth in compatable with country_origin  for  "Country of origin" select box in the form and added search criteria for country of residence in  with their permanent addresses, we have provided seperate search for nationality.
